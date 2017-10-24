@@ -1,6 +1,6 @@
 {
-  "name": "vue-3d-picker",
-  "version": "2.1.0",
+  "name": "@caikan/vue-3d-picker",
+  "version": "2.1.1",
   "description": "The picker component based on vue.js.",
   "main": "src/index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xiecg/vue-picker.git"
+    "url": "git+https://github.com/caikan/vue-picker.git"
   },
   "keywords": [
     "vue",
@@ -23,7 +23,7 @@
   "author": "谢成刚 <xiecg53@163.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xiecg/vue-picker/issues"
+    "url": "https://github.com/caikan/vue-picker/issues"
   },
-  "homepage": "https://github.com/xiecg/vue-picker#readme"
+  "homepage": "https://github.com/caikan/vue-picker#readme"
 }
